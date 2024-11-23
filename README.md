@@ -1,6 +1,5 @@
-# Cancer-Diagnosis-with-CNNs-Image-Analysis
+# cancer-diagnosis-using-histopathological-images-CNN-based-approach-
 
-cancer-diagnosis-using-histopathological-images-CNN-based-approach-
 Here's a general approach for cancer diagnosis in histopathological images using a CNN:
 
 Dataset collection of our own Dataset and preprocessing: Gather a large dataset of histopathological images, including both cancerous and non-cancerous samples. Each image should be labeled with the corresponding diagnosis (cancerous or non-cancerous). Preprocess the images by resizing them to a consistent size and normalizing the pixel values.
@@ -18,3 +17,4 @@ Evaluation: After training, evaluate the trained CNN on the testing set to measu
 Deployment and prediction: Once you're satisfied with the model's performance, deploy it in a production environment. Given a new, unseen histopathological image, the deployed model can make predictions on whether the image contains cancerous cells or not.
 
 It's important to note that building an accurate and reliable cancer diagnosis system requires a large and diverse dataset, careful preprocessing, and rigorous evaluation. It's also advisable to consult with medical professionals and domain experts throughout the development process to ensure the model's reliability and usefulness in clinical settings.
+
